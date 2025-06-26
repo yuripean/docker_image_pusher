@@ -1,1 +1,1 @@
---platform=linux/arm64 pawsql/pawsql-ce:latest
+--platform=linux/arm64 nginx:latest      

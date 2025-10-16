@@ -1,1 +1,2 @@
-unclecode/crawl4ai:all-arm64
+redis:alpine
+browserless/chrome

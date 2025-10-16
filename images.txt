@@ -1,2 +1,2 @@
-redis:alpine
-browserless/chrome
+--platform=linux/arm64 redis:alpine
+--platform=linux/arm64 browserless/chrome

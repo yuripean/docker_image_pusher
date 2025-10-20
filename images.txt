@@ -1,1 +1,1 @@
---platform=linux/arm64 diygod/rsshub
+cooderl/wewe-rss-sqlite:latest

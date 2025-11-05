@@ -1,1 +1,2 @@
-cooderl/wewe-rss-sqlite
+--platform=linux/arm64  postgres:17
+--platform=linux/arm64  node:18-slim

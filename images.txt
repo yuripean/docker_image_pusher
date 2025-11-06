@@ -1,1 +1,1 @@
-node:22-slim
+node:20-slim

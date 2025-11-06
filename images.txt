@@ -1,2 +1,1 @@
---platform=linux/arm64  postgres:17
---platform=linux/arm64  node:18-slim
+n8n:1.115.1-arm64

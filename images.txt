@@ -1,1 +1,1 @@
---platform=linux/arm64 mysql:8.0
+--platform=linux/arm64 oceanbase/seekdb:latest
